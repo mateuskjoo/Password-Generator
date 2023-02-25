@@ -23,6 +23,10 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-
 ## The following image demonstrates the application functionality:
 ![password generator demo] (./assets/image1.png) (./assets/image2.png)
+![Passworld Generator](http://url/assets/image1.png)
+![Passworld Generator](http://url/assets/image2.png)
+
+## License
+MIT license
