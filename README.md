@@ -24,9 +24,9 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## The following image demonstrates the application functionality:
-![password generator demo] (./assets/image1.png) (./assets/image2.png)
-![Passworld Generator](http://url/assets/image1.png)
-![Passworld Generator](http://url/assets/image2.png)
+<img width="868" alt="image1" src="https://user-images.githubusercontent.com/124851248/221340315-4effddbe-6bd4-474f-b179-6dfa6398a992.png">
+<img width="838" alt="image2" src="https://user-images.githubusercontent.com/124851248/221340317-e2843464-b7ef-44c3-8c0d-16d00b7cb747.png">
+
 
 ## License
 MIT license
